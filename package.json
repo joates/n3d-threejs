@@ -11,6 +11,7 @@
     "webgl",
     "threejs"
   ],
+  "main": "index.js",
   "author": "joates (http://joat.es)",
   "license": "MIT"
 }
