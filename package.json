@@ -1,0 +1,16 @@
+{
+  "name": "n3d-threejs",
+  "version": "0.0.0-r67",
+  "description": "Three.js library.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/joates/n3d-threejs.git"
+  },
+  "keywords": [
+    "n3d",
+    "webgl",
+    "threejs"
+  ],
+  "author": "joates (http://joat.es)",
+  "license": "MIT"
+}
