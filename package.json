@@ -1,6 +1,6 @@
 {
   "name": "n3d-threejs",
-  "version": "0.0.0-r67",
+  "version": "68.0.0",
   "description": "Three.js library.",
   "repository": {
     "type": "git",
