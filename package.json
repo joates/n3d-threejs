@@ -1,7 +1,10 @@
 {
   "name": "n3d-threejs",
-  "version": "75.0.0",
+  "version": "76.0.0",
   "description": "Three.js library.",
+  "scripts": {
+    "rebuild": "cat /home/joates/code/github/mrdoob/three.js/build/three.min.js > ./index.js && echo -n 'module.exports=THREE;' >> ./index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/joates/n3d-threejs.git"
